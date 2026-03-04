@@ -119,7 +119,7 @@ REST APIs
 # 📫 Connect With Me
 
 GitHub
-https://github.com/WasimAkram92
+https://wasimakram92.github.io/
 
 LinkedIn
 https://www.linkedin.com/in/wasim-akram-5b0b4a65/
