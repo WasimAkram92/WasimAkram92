@@ -107,22 +107,6 @@ REST APIs
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=WasimAkram92&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=WasimAkram92&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasimAkram92&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 # 🎯 2026 Goals
 
 🚀 Launch multiple AppExchange products
