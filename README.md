@@ -138,10 +138,10 @@ GitHub
 https://github.com/WasimAkram92
 
 LinkedIn
-(Add later)
+https://www.linkedin.com/in/wasim-akram-5b0b4a65/
 
 Trailhead
-(Add later)
+https://www.salesforce.com/trailblazer/wasimakram
 
 ---
 
